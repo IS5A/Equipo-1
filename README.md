@@ -1,2 +1,4 @@
 # Equipo-1
-dd
+Hector Edgar Matias Rodriguez
+Yu Ban Mena Zabala
+Pedro Antonio Fernandez Perez
