@@ -1,0 +1,30 @@
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe.config
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\bin\Debug\ProyectoLoteria.pdb
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.csprojResolveAssemblyReference.cache
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.Form1.resources
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.Properties.Resources.resources
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.csproj.GenerateResource.Cache
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.exe
+c:\users\habbo\documents\visual studio 2015\Projects\ProyectoLoteria\ProyectoLoteria\obj\Debug\ProyectoLoteria.pdb
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe.config
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.exe
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.pdb
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\bin\Debug\ProyectoLoteria.pdb
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.csprojResolveAssemblyReference.cache
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.Form1.resources
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.Properties.Resources.resources
+C:\Users\HéctorEdgar\Desktop\Proyectos Laboratorio de aplicaciones empresariales\Aplicaciones-Empresariales\ProyectoLoteria\obj\Debug\ProyectoLoteria.csproj.GenerateResource.Cache
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe.config
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.exe
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.pdb
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\ProyectoLoteria.exe
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\ProyectoLoteria.pdb
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.csprojResolveAssemblyReference.cache
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.Form1.resources
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.Properties.Resources.resources
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\obj\Debug\ProyectoLoteria.csproj.GenerateResource.Cache
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\Form1.resx
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\Form1.cs
+C:\Users\HéctorEdgar\Desktop\Respaldo\ProyectoLoteria\bin\Debug\Form1.Designer.cs
